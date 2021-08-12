@@ -1,8 +1,8 @@
 ### Hello there, I'm Paulo Victor! 👋
 
-- 📊 I'm a data scientist
-- 📖 Studying Deep Learning & NLP
-- ❤️<img align="center" alt="Paulo-Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+- 📊: I'm a data scientist
+- 🌱: Studying Deep Learning & NLP
+- ❤️: <img align="center" alt="Paulo-Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">, 🎮, 🏹, 🍣 and 📖✍️
 
 
 <div>
